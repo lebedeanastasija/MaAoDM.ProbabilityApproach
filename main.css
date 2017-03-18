@@ -1,0 +1,26 @@
+body {
+ margin: 0 auto;
+ position: absolute;
+ left: 0;
+ right: 0;
+ width: 650px;
+ height: 550px;
+}
+
+h4 {
+	text-align: center;
+}
+
+svg {
+    width: 100%;
+    height: 100%;
+}
+
+p {
+	margin-left: 20px;
+}
+
+#drawSpace {
+	border: 1px solid black;
+	height: 660px;
+}
